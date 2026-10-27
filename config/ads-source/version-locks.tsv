@@ -1,0 +1,5 @@
+# component	command	expected_regex	note
+python311	${ADS_VENV_DEFAULT}/bin/python --version	^Python 3\.11\.9$	Managed virtual environment interpreter
+node20	bash -lc 'NVM_DIR="$HOME/.nvm" && source "$HOME/.nvm/nvm.sh" >/dev/null 2>&1 && nvm use 20 >/dev/null && node --version'	^v20\.	Node.js provided via nvm (20.x)
+terraform	terraform version	^Terraform v1\.	HashiCorp Terraform pinned via tap
+redis7	redis-server --version	^Redis server v=(7|8)\.	Redis service installed via Homebrew

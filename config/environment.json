@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "root": "~/.local/share/devsys",
+  "state_dir": "~/.local/state/devsys",
+  "discovery": {"project_roots": ["~/git_clones"], "depth": 3, "limit": 2000, "manager_paths": {}},
+  "timeouts": {"query": 120, "update": 1800},
+  "metadata_max_age_hours": 24,
+  "unattended_apply": false,
+  "owners": {"python3": "uv", "pip": "selected-python", "node": "nvm", "npm": "nvm", "npx": "nvm", "codex": "native", "claude": "native", "uv": "standalone"},
+  "python": {"selector": "latest-compatible", "profiles": ["base"], "additions": [], "imports": ["requests", "rich", "pydantic"], "allow_untracked": false},
+  "node": {"install": ["node", "lts/*"], "default": "existing", "switch_default": false, "globals": {}, "latest_compatible_npm": false, "update_nvm": false},
+  "brew": {"formulae": ["git", "gh", "ripgrep", "jq", "shellcheck"], "casks": [], "protected": [], "updates": "report", "allow_unknown_consumers": false, "checks": {"git": ["git", "--version"], "gh": ["gh", "--version"], "ripgrep": ["rg", "--version"], "jq": ["jq", "--version"], "shellcheck": ["shellcheck", "--version"]}, "cask_recovery_ack": false},
+  "rust": {"channels": [], "update_manager": false},
+  "tools": {
+    "codex": {"owner": "native", "version": "latest", "smoke": ["codex", "--version"], "enabled": true},
+    "claude": {"owner": "native", "version": "existing", "smoke": ["claude", "--version"], "enabled": true}
+  },
+  "consumers": [],
+  "integration": {"shell": false, "schedule": false, "legacy_jobs": ["com.automatic-dev.maintenance", "com.user.systemmaintenance"]}
+}

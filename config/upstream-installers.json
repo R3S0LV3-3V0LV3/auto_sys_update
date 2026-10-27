@@ -1,0 +1,12 @@
+{
+  "codex": {
+    "url": "https://chatgpt.com/codex/install.sh",
+    "sha256": "150e3cf675682efeaac115aa3747add3f27887896d04ce6d0b56478d8b428bf6",
+    "review": "2026-10-22; final-path isolated HOME; no real auth/profile writes; native integrity checks retained"
+  },
+  "claude": {
+    "url": "https://claude.ai/install.sh",
+    "sha256": "3a68d3406cf674e17bed1733a4dcf37805e2e47d87417700007d7e1aa766a944",
+    "review": "2026-10-22; final-path isolated HOME; no real auth/profile writes; native integrity checks retained"
+  }
+}

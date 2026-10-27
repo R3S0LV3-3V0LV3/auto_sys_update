@@ -1,0 +1,12 @@
+{
+  "source_checkout": "~/git_clones/ads",
+  "source_commit": "621280a380af59b7ee955b8ac5f452980f2ac84e",
+  "files": {
+    "version-locks.tsv": "1b74f9f202af298c5a0010c4a288df729b4a6f68ef2024ecd084ed61eae4b4c2",
+    "LICENSE": "eb76486ed1ebcad7a1723b5c0490f180b4ef913f6edb021d93503562995f31eb",
+    "requirements-automatic-dev.txt": "bfd0fa9b661644b6a877f786584db51cab3a7ed7ee468a5fbd26ab1cf968bb0d",
+    "constraints-automatic-dev.txt": "038ac87537c1316ea2ce7ff4e8e9d61764ca11cf69e7e240a38f0e3777e3867a",
+    "Brewfile.automatic-dev": "6495854f7513474e1f21e7aabb0fd50c812579882c334589fb6fe96706ca52b1"
+  },
+  "notes": "Read-only source import. No ADS executable is sourced/executed. Historical locks retained as evidence, not current defaults."
+}

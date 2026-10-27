@@ -1,0 +1,1034 @@
+[
+  {
+    "kind": "tap",
+    "name": "mongodb/brew",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "tap",
+    "name": "hashicorp/tap",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "tap",
+    "name": "supabase/tap",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "tap",
+    "name": "heroku/brew",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "tap",
+    "name": "jesseduffield/lazygit",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "tap",
+    "name": "charmbracelet/tap",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "tap",
+    "name": "universal-ctags/universal-ctags",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "tap",
+    "name": "mas-cli/tap",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "tap",
+    "name": "oven-sh/bun",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "git",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gh",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "git-lfs",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "lazygit",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "git-delta",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "eza",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "bat",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "ripgrep",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "fd",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "dust",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "procs",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "btop",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gping",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "doggo",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "duf",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "fzf",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "peco",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "jq",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "yq",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "fx",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "tree",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "watch",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "htop",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "ncdu",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "tmux",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "screen",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "zoxide",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "direnv",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "tealdeer",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "shellcheck",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "shfmt",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "hyperfine",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "glow",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "entr",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "mkcert",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "httpie",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "grpcurl",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "dive",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "ctop",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "neovim",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "rename",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "stow",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "wget",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "curl",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gnupg",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "pinentry-mac",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "age",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "nmap",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "netcat",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "socat",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "tcpdump",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "kubectl",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "helm",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "k9s",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "kind",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "colima",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "awscli",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "aws-vault",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "hashicorp/tap/terraform",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "brew",
+    "name": "kubectx",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "cmake",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "pkg-config",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "autoconf",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "automake",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "libtool",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "ninja",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "meson",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "make",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "openssl@3",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "libpq",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "sqlite",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "icu4c",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "ncurses",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "readline",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gettext",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "imagemagick",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "ffmpeg",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "graphviz",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "pandoc",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "p7zip",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "zstd",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "lz4",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "xz",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "brotli",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "coreutils",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "findutils",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gnu-sed",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gawk",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "grep",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gnu-tar",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "gzip",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "unar",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "tcl-tk@8",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "icu4c@77",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "python@3.10",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "python@3.11",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "python@3.12",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "pyenv",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "pipenv",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "poetry",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "uv",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "pipx",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "node@20",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "nvm",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "yarn",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "pnpm",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "deno",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "oven-sh/bun/bun",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "go",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "rustup-init",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "ruby",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "rbenv",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "openjdk",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "kotlin",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "scala",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "r",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "brew",
+    "name": "postgresql@16",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "brew",
+    "name": "redis",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "brew",
+    "name": "mongodb-community@7.0",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "brew",
+    "name": "mas",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "visual-studio-code",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "cursor",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "sublime-text",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "warp",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "raycast",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "rectangle",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "stats",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "monitorcontrol",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "alt-tab",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "google-chrome",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "tableplus",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "dbeaver-community",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "gcloud-cli",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "redis-insight",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": true
+  },
+  {
+    "kind": "cask",
+    "name": "postman",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "insomnia",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "figma",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "obsidian",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "notion",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "slack",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "discord",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "zoom",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "bartender",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "cleanmymac",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "1password",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "little-snitch",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "vlc",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "spotify",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "handbrake",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "docker",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "ngrok",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "orbstack",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-jetbrains-mono-nerd-font",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-meslo-lg-nerd-font",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-fira-code-nerd-font",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-cascadia-code",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-source-code-pro",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-hack-nerd-font",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-sf-mono",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-sf-pro",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-inter",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-victor-mono",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  },
+  {
+    "kind": "cask",
+    "name": "font-inconsolata",
+    "disposition": "historical candidate only; install only when selected in unified policy",
+    "excluded_provisioning": false
+  }
+]

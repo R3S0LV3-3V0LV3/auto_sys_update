@@ -1,0 +1,578 @@
+[
+  {
+    "name": "numpy",
+    "original_requirement": "numpy>=1.21,<2.0",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "scipy",
+    "original_requirement": "scipy>=1.11",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "pandas",
+    "original_requirement": "pandas>=2.2,<3.0",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "matplotlib",
+    "original_requirement": "matplotlib>=3.8",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "seaborn",
+    "original_requirement": "seaborn>=0.13",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "plotly",
+    "original_requirement": "plotly>=5.13",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "altair",
+    "original_requirement": "altair>=4.2",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "bokeh",
+    "original_requirement": "bokeh>=3.1",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "scikit-learn",
+    "original_requirement": "scikit-learn>=1.4,<2.0",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "statsmodels",
+    "original_requirement": "statsmodels>=0.14",
+    "profile": "data",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "jupyterlab",
+    "original_requirement": "jupyterlab>=4.0",
+    "profile": "jupyter",
+    "default": false,
+    "delivery": "host-extension",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "jupyter",
+    "original_requirement": "jupyter>=1.0",
+    "profile": "jupyter",
+    "default": false,
+    "delivery": "host-extension",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "ipykernel",
+    "original_requirement": "ipykernel>=6.21",
+    "profile": "jupyter",
+    "default": false,
+    "delivery": "host-extension",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "ipywidgets",
+    "original_requirement": "ipywidgets>=8.0",
+    "profile": "jupyter",
+    "default": false,
+    "delivery": "host-extension",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "jupyter_contrib_nbextensions",
+    "original_requirement": "jupyter_contrib_nbextensions",
+    "profile": "legacy-notebook",
+    "default": false,
+    "delivery": "host-extension",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "jupyterlab-git",
+    "original_requirement": "jupyterlab-git",
+    "profile": "jupyter",
+    "default": false,
+    "delivery": "host-extension",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "jupyterlab-lsp",
+    "original_requirement": "jupyterlab-lsp",
+    "profile": "jupyter",
+    "default": false,
+    "delivery": "host-extension",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "tensorflow-macos",
+    "original_requirement": "tensorflow-macos==2.16.2",
+    "profile": "tensorflow-legacy",
+    "default": false,
+    "delivery": "import-library",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "tensorflow-metal",
+    "original_requirement": "tensorflow-metal==1.1.0",
+    "profile": "tensorflow-legacy",
+    "default": false,
+    "delivery": "import-library",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "torch",
+    "original_requirement": "torch==2.9.0",
+    "profile": "pytorch",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "torchvision",
+    "original_requirement": "torchvision>=0.14",
+    "profile": "pytorch",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "torchaudio",
+    "original_requirement": "torchaudio>=0.13",
+    "profile": "pytorch",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "transformers",
+    "original_requirement": "transformers>=4.26",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "datasets",
+    "original_requirement": "datasets>=2.9",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "huggingface-hub",
+    "original_requirement": "huggingface-hub>=0.12",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "xgboost",
+    "original_requirement": "xgboost",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "lightgbm",
+    "original_requirement": "lightgbm",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "catboost",
+    "original_requirement": "catboost",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "optuna",
+    "original_requirement": "optuna",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "hyperopt",
+    "original_requirement": "hyperopt",
+    "profile": "ml",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "fastapi",
+    "original_requirement": "fastapi>=0.92",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "uvicorn",
+    "original_requirement": "uvicorn[standard]>=0.20",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "starlette",
+    "original_requirement": "starlette",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "streamlit",
+    "original_requirement": "streamlit==1.50.0",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "gradio",
+    "original_requirement": "gradio==4.44.1",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "ray",
+    "original_requirement": "ray==2.50.1",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "dash",
+    "original_requirement": "dash>=2.8",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "requests",
+    "original_requirement": "requests>=2.28",
+    "profile": "base",
+    "default": true,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "httpx",
+    "original_requirement": "httpx",
+    "profile": "base",
+    "default": true,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "beautifulsoup4",
+    "original_requirement": "beautifulsoup4>=4.11",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "scrapy",
+    "original_requirement": "scrapy>=2.8",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "selenium",
+    "original_requirement": "selenium",
+    "profile": "web",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "sqlalchemy",
+    "original_requirement": "sqlalchemy>=2.0",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "psycopg2-binary",
+    "original_requirement": "psycopg2-binary>=2.9",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "pymongo",
+    "original_requirement": "pymongo>=4.3",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "dask",
+    "original_requirement": "dask[complete]>=2023.2",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "polars",
+    "original_requirement": "polars[all]>=0.16",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "pyarrow",
+    "original_requirement": "pyarrow",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "pyspark",
+    "original_requirement": "pyspark",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "delta-spark",
+    "original_requirement": "delta-spark",
+    "profile": "data-engineering",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "black",
+    "original_requirement": "black[jupyter]>=24.0",
+    "profile": "isolated-cli",
+    "default": false,
+    "delivery": "isolated-tool",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "isort",
+    "original_requirement": "isort",
+    "profile": "isolated-cli",
+    "default": false,
+    "delivery": "isolated-tool",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "flake8",
+    "original_requirement": "flake8>=6.0",
+    "profile": "isolated-cli",
+    "default": false,
+    "delivery": "isolated-tool",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "mypy",
+    "original_requirement": "mypy>=1.0",
+    "profile": "isolated-cli",
+    "default": false,
+    "delivery": "isolated-tool",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "ruff",
+    "original_requirement": "ruff",
+    "profile": "isolated-cli",
+    "default": false,
+    "delivery": "isolated-tool",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "pytest",
+    "original_requirement": "pytest>=7.2",
+    "profile": "qa",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "pytest-cov",
+    "original_requirement": "pytest-cov",
+    "profile": "qa",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "pytest-xdist",
+    "original_requirement": "pytest-xdist",
+    "profile": "qa",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "hypothesis",
+    "original_requirement": "hypothesis",
+    "profile": "qa",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "rich",
+    "original_requirement": "rich>=13.7",
+    "profile": "base",
+    "default": true,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "tqdm",
+    "original_requirement": "tqdm>=4.64",
+    "profile": "base",
+    "default": true,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "click",
+    "original_requirement": "click>=8.1,<9,!=8.3.0",
+    "profile": "base",
+    "default": true,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "python-dotenv",
+    "original_requirement": "python-dotenv>=1.0",
+    "profile": "base",
+    "default": true,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "pydantic",
+    "original_requirement": "pydantic>=2.0",
+    "profile": "base",
+    "default": true,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "mlflow",
+    "original_requirement": "mlflow>=2.1",
+    "profile": "mlops",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "wandb",
+    "original_requirement": "wandb>=0.13",
+    "profile": "mlops",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "neptune-client",
+    "original_requirement": "neptune-client>=0.16",
+    "profile": "mlops",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "tensorboard",
+    "original_requirement": "tensorboard",
+    "profile": "mlops",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "dvc",
+    "original_requirement": "dvc>=2.48",
+    "profile": "mlops",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "git-lfs",
+    "original_requirement": "git-lfs",
+    "profile": "isolated-cli",
+    "default": false,
+    "delivery": "isolated-tool",
+    "status": "requires-specific-adapter"
+  },
+  {
+    "name": "bentoml",
+    "original_requirement": "bentoml",
+    "profile": "mlops",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  },
+  {
+    "name": "mlserver",
+    "original_requirement": "mlserver",
+    "profile": "mlops",
+    "default": false,
+    "delivery": "import-library",
+    "status": "eligible-for-resolution"
+  }
+]

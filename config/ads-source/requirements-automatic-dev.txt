@@ -1,0 +1,94 @@
+# =============================================================================
+# Automatic Dev Setup - Python Requirements
+# Purpose: Core data science, ML, web, database, tooling, and MLOps packages
+# =============================================================================
+
+# Numerical & Scientific Computing
+numpy>=1.21,<2.0
+scipy>=1.11
+pandas>=2.2,<3.0
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.13
+altair>=4.2
+bokeh>=3.1
+
+# Machine Learning & Statistics
+scikit-learn>=1.4,<2.0
+statsmodels>=0.14
+
+# Jupyter Ecosystem
+jupyterlab>=4.0
+jupyter>=1.0
+ipykernel>=6.21
+ipywidgets>=8.0
+jupyter_contrib_nbextensions
+jupyterlab-git
+jupyterlab-lsp
+
+# Deep Learning (Apple Silicon)
+tensorflow-macos==2.16.2
+tensorflow-metal==1.1.0
+torch==2.9.0
+torchvision>=0.14
+torchaudio>=0.13
+transformers>=4.26
+datasets>=2.9
+huggingface-hub>=0.12
+xgboost
+lightgbm
+catboost
+optuna
+hyperopt
+
+# Web Development & APIs
+fastapi>=0.92
+uvicorn[standard]>=0.20
+starlette
+streamlit==1.50.0
+gradio==4.44.1
+ray==2.50.1
+dash>=2.8
+requests>=2.28
+httpx
+beautifulsoup4>=4.11
+scrapy>=2.8
+selenium
+
+# Database & Data Engineering
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+pymongo>=4.3
+dask[complete]>=2023.2
+polars[all]>=0.16
+pyarrow
+pyspark
+delta-spark
+
+# Development Tools & QA
+black[jupyter]>=24.0
+isort
+flake8>=6.0
+mypy>=1.0
+ruff
+pytest>=7.2
+pytest-cov
+pytest-xdist
+hypothesis
+rich>=13.7
+tqdm>=4.64
+click>=8.1,<9,!=8.3.0
+python-dotenv>=1.0
+pydantic>=2.0
+
+# MLOps & Experiment Tracking
+mlflow>=2.1
+wandb>=0.13
+neptune-client>=0.16
+tensorboard
+dvc>=2.48
+git-lfs
+bentoml
+mlserver
